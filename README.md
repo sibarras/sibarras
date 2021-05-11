@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sibarras
+- 👀 I’m interested in DataScience, Machine Learning, Software Development and Web Apps using Python, C, Rust and TypeScript.
+- 🌱 I’m currently learning Backend, UX, CI, CD, Desing Patterns, Keras, Tensorflow, React, Django and Functional Programming.
+- 💞️ I’m looking to collaborate on whatever you need, to be able to learn on the go. 
+- 📫 How to reach me: contact@samuelibarra.com
