@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sibarras
-- 👀 I’m interested in DataScience, Machine Learning, Software Development and Web Apps using Python, Rust, Go, V and Mojo.
-- 🌱 I’m currently learning Backend, UX, CI, CD, Arquitecture Patterns and WebAssembly trying to use Functional Programming (Not strict).
+- 👀 I’m interested in Data Science, Machine Learning and Low Level Languages.
+- 💪 Proficient in Python and Rust. Learning Zig, Mojo, OCaml and Go.
 - 💞️ I’m looking to collaborate on Python or Rust projects.
 - 📫 How to reach me: ing.samuelibarra@gmail.com
