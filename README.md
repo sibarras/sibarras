@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sibarras
-- 👀 I’m interested in Data Science, Machine Learning and Low Level Languages.
-- 💪 Proficient in Python and Rust. Learning Zig, Mojo, OCaml and Go.
-- 💞️ I’m looking to collaborate on Python or Rust projects.
-- 📫 How to reach me: ing.samuelibarra@gmail.com
+Rust & Python Lover. Mojo & Zig Learner.
